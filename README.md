@@ -2,8 +2,6 @@
 
 Control the **AgileX Nero 7-DOF robotic arm** from any Ubuntu PC over a USB-to-CAN adapter using the `pyAgxArm` SDK.
 
-![CAN data stream](asserts/pictures/candump_can0.png)
-
 ---
 
 ## Table of Contents
@@ -53,7 +51,7 @@ Control the **AgileX Nero 7-DOF robotic arm** from any Ubuntu PC over a USB-to-C
 
 ```bash
 # 1. Clone and install everything (one-time)
-git clone https://github.com/<YOUR_USERNAME>/AgileX_nero.git
+git clone [https://github.com/Sazabi06/AgileX_nero.git]
 cd AgileX_nero
 bash install.sh
 
